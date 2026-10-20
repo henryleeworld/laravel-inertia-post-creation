@@ -1,4 +1,4 @@
-# Laravel 11 Inertia 文章建立
+# Laravel 12 Inertia 文章建立
 
 在撰寫文章之前需要先釐清產出目的，再針對這個目標去撰寫相關的內容，才不會花了許多時間與心力，卻沒有帶來任何的效益，或是產出對達成目標沒有幫助的文章。
 
@@ -35,5 +35,5 @@ $ npm run build
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/Fws7HI0.gif)
+![](https://i.imgur.com/ZOpM8Wn.gif)
 > 首先定一個好的文章標題，其次要試想怎麼樣可以更加輕鬆地理解想要表達的內容
